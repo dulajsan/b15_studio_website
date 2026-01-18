@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/b15_studio_website/static/css/main.30a70d99.css",
+    "main.js": "/b15_studio_website/static/js/main.1bfb9781.js",
+    "index.html": "/b15_studio_website/index.html",
+    "main.30a70d99.css.map": "/b15_studio_website/static/css/main.30a70d99.css.map",
+    "main.1bfb9781.js.map": "/b15_studio_website/static/js/main.1bfb9781.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30a70d99.css",
+    "static/js/main.1bfb9781.js"
+  ]
+}
